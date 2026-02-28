@@ -2,7 +2,7 @@
 # 🚀 Internship Task-3: 4-Stage Pipelined Processor Design
 
 ## 👩‍💻 Developed By
-**Appani Saipravalika**  
+Appani Saipravalika
 Electronics and Communication Engineering  
 Vaagdevi Engineering College  
 
@@ -87,7 +87,7 @@ pipeline-processor_task3/images/waveform.png
 
 Then it will display automatically below:
 
-![Simulation Output](https://github.com/saipravalikavarma/pipeline-processor_task3/upload/main/src)
+![Simulation Output](https://github.com/saipravalikavarma/pipeline-processor_task3/blob/main/WhatsApp%20Image%202026-02-28%20at%2010.33.18%20PM.jpeg)
 
 If needed, you can also use this format:
 
