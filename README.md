@@ -87,7 +87,7 @@ pipeline-processor_task3/images/waveform.png
 
 Then it will display automatically below:
 
-![Simulation Output](https://github.com/saipravalikavarma/pipeline-processor_task3/blob/main/WhatsApp%20Image%202026-02-28%20at%2010.33.18%20PM.jpeg)
+![Simulation Output](https://github.com/saipravalikavarma/digital-filter_task4/blob/main/WhatsApp%20Image%202026-02-28%20at%2010.51.12%20PM.jpeg)
 
 If needed, you can also use this format:
 
